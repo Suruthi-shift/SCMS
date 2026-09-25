@@ -1,1 +1,3 @@
-# SCMS
+Domain 2 : WEBSITE DEVELOPMENT
+Project Name WEB-01 : SMART CAMPUS ISSUE MANAGEMENT PORTAL
+Architecture flow :
